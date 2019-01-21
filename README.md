@@ -1,3 +1,3 @@
 # vika
 test 
-# It's a test dir for devOps GIT training ref Senthill
+# It's a test file for devOps GIT training .
